@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\bin\Release\SHSApp-Profuchet.exe
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\bin\Release\SHSApp-Profuchet.pdb
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Release\SHSApp_Profuchet.Form1.resources
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Release\SHSApp_Profuchet.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Release\SHSApp-Profuchet.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Release\SHSApp-Profuchet.exe
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Release\SHSApp-Profuchet.pdb

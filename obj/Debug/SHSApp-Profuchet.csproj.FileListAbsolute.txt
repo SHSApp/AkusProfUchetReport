@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\bin\Debug\SHSApp-Profuchet.exe
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\bin\Debug\SHSApp-Profuchet.pdb
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Debug\SHSApp_Profuchet.Form1.resources
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Debug\SHSApp_Profuchet.Properties.Resources.resources
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Debug\SHSApp-Profuchet.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Debug\SHSApp-Profuchet.exe
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Debug\SHSApp-Profuchet.pdb
+C:\Users\User\Desktop\PROJECTS\SHSApp\SHSApp-Profuchet\obj\Debug\SHSApp-Profuchet.csprojResolveAssemblyReference.cache
